@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/varun/Downloads/besfe_final/mobile/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/varun/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/varun/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "app-glue::@6890427a1f51a3e7e1df": {
+      "artifactName": "app-glue",
+      "abi": "arm64-v8a",
+      "output": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a/libapp-glue.a",
+      "runtimeFiles": []
+    },
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/varun/Downloads/besfe_final/mobile/build/intermediates/cxx/Debug/40665nq3/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /Users/varun/Downloads/besfe_final/mobile/src/main/cpp/native-lib.cpp",
+  "file": "/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/native-lib.cpp"
+},
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/NativeModel.cpp.o -c /Users/varun/Downloads/besfe_final/mobile/src/main/cpp/NativeModel.cpp",
+  "file": "/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/NativeModel.cpp"
+},
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/calculations/Calculations.cpp.o -c /Users/varun/Downloads/besfe_final/mobile/src/main/cpp/calculations/Calculations.cpp",
+  "file": "/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/calculations/Calculations.cpp"
+},
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/calculations/Classifier.cpp.o -c /Users/varun/Downloads/besfe_final/mobile/src/main/cpp/calculations/Classifier.cpp",
+  "file": "/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/calculations/Classifier.cpp"
+},
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/datatypes/SensorOutput.cpp.o -c /Users/varun/Downloads/besfe_final/mobile/src/main/cpp/datatypes/SensorOutput.cpp",
+  "file": "/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/datatypes/SensorOutput.cpp"
+},
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/datatypes/DataCarrier.cpp.o -c /Users/varun/Downloads/besfe_final/mobile/src/main/cpp/datatypes/DataCarrier.cpp",
+  "file": "/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/datatypes/DataCarrier.cpp"
+},
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/calculations/nn/KerasSequentialModel.cpp.o -c /Users/varun/Downloads/besfe_final/mobile/src/main/cpp/calculations/nn/KerasSequentialModel.cpp",
+  "file": "/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/calculations/nn/KerasSequentialModel.cpp"
+},
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/calculations/nn/Parameters.cpp.o -c /Users/varun/Downloads/besfe_final/mobile/src/main/cpp/calculations/nn/Parameters.cpp",
+  "file": "/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/calculations/nn/Parameters.cpp"
+},
+{
+  "directory": "/Users/varun/Downloads/besfe_final/mobile/.cxx/Debug/40665nq3/arm64-v8a",
+  "command": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/Users/varun/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/varun/Downloads/besfe_final/mobile/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/app-glue.dir/Users/varun/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o -c /Users/varun/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c",
+  "file": "/Users/varun/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c"
+}
+]

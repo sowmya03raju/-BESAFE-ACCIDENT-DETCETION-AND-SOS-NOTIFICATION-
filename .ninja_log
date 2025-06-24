@@ -1,0 +1,10 @@
+# ninja log v5
+5	223	1748323367020389558	CMakeFiles/app-glue.dir/Users/varun/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	721ed090aa04ac2e
+224	309	1748323367110016000	libapp-glue.a	eeefbbf1faf2d143
+2	801	1748323367598772526	CMakeFiles/native-lib.dir/src/main/cpp/datatypes/SensorOutput.cpp.o	72f3c7cc69bcbac8
+0	852	1748323367648999797	CMakeFiles/native-lib.dir/src/main/cpp/NativeModel.cpp.o	2ef3b15c17707448
+2	861	1748323367657702548	CMakeFiles/native-lib.dir/src/main/cpp/calculations/Classifier.cpp.o	b9d646828f045ea9
+3	890	1748323367686964445	CMakeFiles/native-lib.dir/src/main/cpp/datatypes/DataCarrier.cpp.o	c38a3747b0115117
+3	952	1748323367748931947	CMakeFiles/native-lib.dir/src/main/cpp/calculations/nn/Parameters.cpp.o	e945b416c1373e7a
+0	969	1748323367766342908	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	604def1621e6a3a8
+0	1007	1748323367804597084	CMakeFiles/native-lib.dir/src/main/cpp/calculations/Calculations.cpp.o	db10e52bd714fd21
